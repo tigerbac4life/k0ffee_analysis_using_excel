@@ -28,7 +28,8 @@ The project explores sales performance from different perspectives:
 
 ## 5. Dashboard
 
+
 An Excel dashboard was created to present key sales insights through charts and summary metrics.
 
-**File:** `coffeeOrdersData.xlsx`
+**File:** `coffeeOrdersAnalysis.xlsx`
 
