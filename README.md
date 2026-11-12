@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-This project focuses on cleaning, organizing, and analyzing coffee sales data using Microsoft Excel. The goal is to explore sales performance across different years, countries, and product categories through data analysis and visualization.
+This project aims to analyze coffee sales data to identify sales trends and evaluate business performance across different years, countries, and product categories. Using Microsoft Excel, the project involves data cleaning, transformation, and exploratory analysis to uncover key sales patterns and provide insights into business performance.
 
 ## 2. Tools & Skills
 
